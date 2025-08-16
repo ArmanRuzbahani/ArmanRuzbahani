@@ -28,7 +28,9 @@ I am work as ERP and BPMN developer at Tehran .
 ## 💻 Operating Systems
 <p>
   <img src="https://skillicons.dev/icons?i=ubuntu,windows" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="48" height="48"/>
 </p>
+
 
 ## 🗄️ Databases
 <p>
