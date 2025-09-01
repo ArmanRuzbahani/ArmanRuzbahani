@@ -10,7 +10,7 @@ I am work as ERP and BPMN developer at Tehran .
 
 ## 🧑‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,cpp,xml" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,cpp,ts" />
 </p>
 
 ## 🚀 Frameworks & Platforms
@@ -22,7 +22,7 @@ I am work as ERP and BPMN developer at Tehran .
 
 ## 🌐 Web Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular,xml" />
 </p>
 
 ## 💻 Operating Systems
