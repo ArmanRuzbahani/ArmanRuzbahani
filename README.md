@@ -17,7 +17,6 @@ I am work as ERP and BPMN developer at Tehran .
 <p>
   <img src="https://img.shields.io/badge/Moqui_Framework-005571?style=for-the-badge&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/BPMS%20(Camunda)-f36c21?style=for-the-badge&logo=camunda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-4B8BBE?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ## 🌐 Web Technologies
